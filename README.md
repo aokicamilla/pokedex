@@ -1,2 +1,2 @@
-# pokedex
-From the DIO Angular Course
+# pokedex example
+From the DIO Angular Bootcamp
